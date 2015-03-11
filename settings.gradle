@@ -1,0 +1,2 @@
+include ':app'
+include ':libs:usb-serial-for-android-v010.jar'

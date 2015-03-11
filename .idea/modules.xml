@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GlucoseMonitoring.iml" filepath="$PROJECT_DIR$/GlucoseMonitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/usb-serial-for-android-v010.jar/usb-serial-for-android-v010.jar.iml" filepath="$PROJECT_DIR$/libs/usb-serial-for-android-v010.jar/usb-serial-for-android-v010.jar.iml" />
+    </modules>
+  </component>
+</project>
+
